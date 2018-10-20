@@ -38,7 +38,7 @@ System.out.print(b1[i]+",");
         
     }
 
-System.out.print("]");
+System.out.print("]]]]]]]]]]]]");
     
     
 }
